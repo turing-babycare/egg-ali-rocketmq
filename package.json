@@ -50,12 +50,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-syhh-rocketmq.git"
+    "url": "git+https://github.com/turing-babycare/egg-ali-rocketmq.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/turing-babycare/egg-ali-rocketmq/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-syhh-rocketmq#readme",
+  "homepage": "https://github.com/turing-babycare/egg-ali-rocketmq#readme",
   "author": "",
   "license": "MIT"
 }
